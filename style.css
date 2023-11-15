@@ -1,0 +1,40 @@
+body {
+  border: 5px solid white;
+  background-color: rgb(5, 5, 47);
+  color: white;
+  padding: 30px;
+  font-family: sans-serif;
+}
+.heading1 {
+  font-size: 50px;
+  margin-bottom: 0;
+}
+.desc {
+  font-size: 20px;
+  margin-top: 1px;
+  color: rgb(187, 185, 185);
+}
+.inputs {
+  margin: 5px 0;
+}
+.gender {
+  border-top: 2px;
+  padding: 10px;
+  margin-bottom: 10px;
+  color: rgb(187, 185, 185);
+}
+.option {
+  text-decoration: none;
+  color: rgb(187, 185, 185);
+  border: 1px solid rgb(124, 124, 124);
+  padding: 5px 10px;
+}
+.checkbox-label {
+  color: rgb(187, 185, 185);
+}
+.btn {
+  background-color: rgb(100, 100, 100);
+  padding: 5px 10px;
+  margin-top: 10px;
+  color: rgb(187, 185, 185);
+}
