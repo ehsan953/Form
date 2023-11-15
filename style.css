@@ -1,13 +1,22 @@
-body {
+.form {
   border: 5px solid white;
+  border-radius: 10px;
   background-color: rgb(5, 5, 47);
   color: white;
   padding: 30px;
   font-family: sans-serif;
+
+  width: 450px;
+  margin: auto;
+  /* position: relative;
+  top: 50px; */
+
+  /* display: flex; */
 }
+
 .heading1 {
   font-size: 50px;
-  margin-bottom: 0;
+  margin: 0;
 }
 .desc {
   font-size: 20px;
@@ -33,7 +42,7 @@ body {
   color: rgb(187, 185, 185);
 }
 .btn {
-  background-color: rgb(100, 100, 100);
+  background-color: rgb(75, 75, 75);
   padding: 5px 10px;
   margin-top: 10px;
   color: rgb(187, 185, 185);
